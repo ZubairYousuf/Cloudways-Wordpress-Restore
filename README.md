@@ -1,4 +1,3 @@
-# Read Me File 
 # WordPress Restore Script for Cloudways
 
 ## 📜 Description
