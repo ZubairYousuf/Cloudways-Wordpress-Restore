@@ -3,7 +3,12 @@
 
 ## 📜 Description
 
-This Bash script automates the restoration of a WordPress website on a **Cloudways-hosted server**. It handles database import, file extraction, configuration update, and search-replace operations for domain and path references.
+This Bash script automates the restoration of a WordPress website on a Cloudways-hosted server.
+It handles database import, file extraction, configuration updates, and search-replace operations for domain and file path references.
+
+This script is designed to work with backups created by the companion tool: wordpress-backup-tool.
+Use that script to generate a complete .tar.gz backup of your site (including database and path metadata), which can then be restored seamlessly using this script.
+
 
 ## 🚀 Features
 
